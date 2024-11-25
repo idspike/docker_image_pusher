@@ -1,3 +1,4 @@
 nginx:1.27
 prestashop/prestashop:8
+prestashop/prestashop:8-fpm
 redis:7.4
