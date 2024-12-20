@@ -1,1 +1,1 @@
-node:23-alpine
+--platform=linux/arm64 node:23-alpine
