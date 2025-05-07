@@ -1,1 +1,1 @@
-linux_arm64_node:23-debian
+--platform=linux/arm64 node:23-debian
