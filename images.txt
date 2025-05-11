@@ -1,2 +1,3 @@
 # --platform=linux/arm64 node:23-slim
-wang1010q/certbot-dns-aliyun:v1.26.0
+# wang1010q/certbot-dns-aliyun:v1.26.0
+public.ecr.aws/zinclabs/openobserve:latest
