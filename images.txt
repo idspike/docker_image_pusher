@@ -3,4 +3,5 @@
 # public.ecr.aws/zinclabs/openobserve:latest
 # otel/opentelemetry-collector:0.123.0
 # timberio/vector:nightly-alpine
-otel/opentelemetry-collector-contrib:latest
+# otel/opentelemetry-collector-contrib:latest
+zerotier/zerotier:1.14.2
