@@ -4,4 +4,6 @@
 # otel/opentelemetry-collector:0.123.0
 # timberio/vector:nightly-alpine
 # otel/opentelemetry-collector-contrib:latest
-zerotier/zerotier:1.14.2
+# zerotier/zerotier:1.14.2
+temporalio/auto-setup:1.27.2.0
+temporalio/ui:v2.38.1
