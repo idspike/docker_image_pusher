@@ -7,4 +7,5 @@
 # zerotier/zerotier:1.14.2
 # temporalio/auto-setup:1.27.2.0
 # temporalio/ui:v2.38.1
-temporalio/server:1.28.0
+# temporalio/server:1.28.0
+temporalio/admin-tools:1.28
