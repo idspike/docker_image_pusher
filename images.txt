@@ -9,4 +9,5 @@
 # temporalio/ui:v2.38.1
 # temporalio/server:1.28.0
 # temporalio/admin-tools:1.28
-temporalio/auto-setup:1.28.0
+# temporalio/auto-setup:1.28.0
+golang:1.23
