@@ -11,4 +11,5 @@
 # temporalio/admin-tools:1.28
 # temporalio/auto-setup:1.28.0
 # golang:1.23
-memcached:1.6
+# memcached:1.6
+golang:1.25
